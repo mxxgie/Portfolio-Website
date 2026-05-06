@@ -41,7 +41,7 @@ const App = () => {
   const skills = [
     { category: "Frontend", items: ["HTML", "CSS", "Javascript", "React", "Tailwind CSS"] },
     { category: "Backend", items: ["Node.js", "Express.js", "Java", "C#", "PostgreSQL", "MySQL", "Firebase", "Supabase", "XAMPP"] },
-    { category: "Tools", items: ["Git", "GitHub", "Vite", "Figma", "Antigravity", "VSCode", "Android Studio"] }
+    { category: "Tools", items: ["Git", "GitHub", "Vite", "Figma", "Gemini", "Antigravity", "VSCode", "Android Studio"] }
   ];
 
   return (
@@ -105,7 +105,7 @@ const App = () => {
               Hi, I'm Margie!
             </h1>
             <p className="text-xl text-blue-200 max-w-2xl mb-10 leading-relaxed">
-              I'm a Full-stack Developer and an IT graduate from STI College Dagupan.
+              I'm a Junior IT Developer and a fresh graduate from STI College Dagupan.
             </p>
             <div className="flex flex-wrap justify-center gap-4">
               <button
